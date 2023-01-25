@@ -9,12 +9,14 @@ Este repositório é referente ao exercicio individual proposto pela resilia
   
  <h3>Existem outras entidades além dessas três?</h3>
   
- <p>Sim, existem as entidades adicionais, Instituição, Professor, Sala </p>
+ <p>Sim, existem as entidades adicionais sendo elas as seguintes: Instituição, Professor, Sala </p>
   
  <h3>Quais são os principais campos e tipos?</h3>
   
- <p>Instituição, Professor, Sala, Alunos, Turmas, Cursos<p>
+ <p>São as "Id" elas são as chaves primarias que conectam todas as tabelas <p>
   
  <h3>Como essas entidades estão relacionadas?</h3>
+ 
+ <p></p>
 
-![Diagrama Mod 4 Individual](https://user-images.githubusercontent.com/114076569/214564447-8415af0f-80fb-45bc-ba2f-f0970dbdd19c.png)
+<br/>![Diagrama Mod 4 Individual](https://user-images.githubusercontent.com/114076569/214564447-8415af0f-80fb-45bc-ba2f-f0970dbdd19c.png)
