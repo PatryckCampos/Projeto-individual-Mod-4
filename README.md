@@ -9,6 +9,8 @@ Este repositório é referente ao exercicio individual proposto pela resilia
   
  <p>Existem outras entidades além dessas três?<p>
   
+  Sim, existem as entidades adicionais, Instituição, Professor, Sala
+  
  <p>Quais são os principais campos e tipos?<p>
   
  <p>Como essas entidades estão relacionadas?<p>
